@@ -1,3 +1,5 @@
+[English](README.md) | **Italiano**
+
 # Event Management & Booking API
 
 Backend RESTful sviluppato con **Spring Boot** per la gestione completa di eventi e prenotazioni. La piattaforma distingue due tipologie di utenti, **Utente** e **Organizzatore**, ciascuna con permessi dedicati, e copre l'intero ciclo di vita di un evento: dalla creazione alla prenotazione, fino all'annullamento.
